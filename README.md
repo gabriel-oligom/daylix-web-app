@@ -58,5 +58,8 @@ pip install -r requirements.txt
 streamlit run web.py
 ```
 
-### 📸 Preview do Daylix Web App
+## 📸 Preview do Daylix Web App
 <img src="images/Daylix_Official_Screenshot.png" alt="Daylix Web App Preview" width="800"/>
+
+## 🤝 Contribuição
+Pull requests são bem-vindos! Para mudanças pequenas, faça fork do repo e abra uma PR.
